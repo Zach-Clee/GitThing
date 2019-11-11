@@ -1,2 +1,3 @@
 #GitThing
-##Added Dev
+##Added Developer
+###Added Feature1
